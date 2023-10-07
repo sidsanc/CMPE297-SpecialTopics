@@ -80,9 +80,11 @@ A simple web UI was proposed using Flask and HTML/CSS.
 Users can input data features through a form and receive sea level predictions.
 
 ###  Model Evaluation
-MAE: 6.85
-MSE: 75.58
-R²: -0.56
+- MAE: 6.85
+
+- MSE: 75.58
+
+- R²: -0.56
 
 ## Getting Started
 To get a local copy up and running, follow these steps:

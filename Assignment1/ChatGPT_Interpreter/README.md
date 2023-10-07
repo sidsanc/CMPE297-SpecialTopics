@@ -23,7 +23,7 @@ Implementing a user-friendly interface that effectively communicates the modelâ€
 
 ### Table of Contents
 
-- [Overview](#ğŸŒoverview)
+- [Overview](#overview)
 - [Data Exploration & Analysis](#data-exploration--analysis)
 - [Feature Engineering & Model Tuning](#feature-engineering--model-tuning)
 - [Model Deployment & UI](#model-deployment--ui)
@@ -32,7 +32,7 @@ Implementing a user-friendly interface that effectively communicates the modelâ€
 - [License](#license)
 
 
-## ğŸŒ Overview
+## Overview
 
 This project involves predicting sea levels using a dataset from Kaggle. The CRISP-DM methodology was used to guide the process, ensuring a structured and comprehensive approach to the data science tasks.
 

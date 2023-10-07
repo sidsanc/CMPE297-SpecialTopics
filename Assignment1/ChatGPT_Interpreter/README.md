@@ -10,6 +10,8 @@ Deep Dive: Explore a detailed journey through my project in my Medium article:
 
 [Rising Tides, Sinking Cities: A Data-Driven Dive into Predicting Sea Levels](https://medium.com/@sidsanc4998/rising-tides-sinking-cities-a-data-driven-dive-into-predicting-sea-levels-b50803dfca59)
 
+[Chat Script](https://chat.openai.com/share/8e258e77-5313-4058-a99b-37b52f6353c8)
+
 ## 🧐 Problem Statement
 
 The consistent rise in global sea levels has been attributed to various factors such as global warming, glacier melting, and other environmental phenomena. The ability to predict sea levels is crucial in formulating and implementing preventive and adaptive measures, particularly in regions that are severely affected by rising waters.

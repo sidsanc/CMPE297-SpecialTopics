@@ -23,7 +23,7 @@ Implementing a user-friendly interface that effectively communicates the modelâ€
 
 ### Table of Contents
 
-- [Overview](#overview)
+- [Overview](#ğŸŒoverview)
 - [Data Exploration & Analysis](#data-exploration--analysis)
 - [Feature Engineering & Model Tuning](#feature-engineering--model-tuning)
 - [Model Deployment & UI](#model-deployment--ui)

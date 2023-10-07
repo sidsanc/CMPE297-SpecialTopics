@@ -42,41 +42,57 @@ The data was loaded from a CSV file named sealevel.csv.
 This dataset contains various variables related to sea level measurements over time.
 
 Dataset Variables
+
 Time: The timestamp associated with each measurement.
+
 GMSL (GIA applied): Global Mean Sea Level (GMSL) with the Glacial Isostatic Adjustment (GIA) applied.
+
 GMSL (NO GIA applied): GMSL without the GIA applied.
 
 ### Data Cleaning & Preprocessing
 
 Handled missing values.
+
 Detected and addressed outliers using the IQR method.
+
 Conducted time-based train-test splitting to ensure the model is validated in a realistic manner.
 
 ### Data Visualization
 Plotted time series trends of the sea level.
+
 Visualized the distribution and relationships of key variables.
+
 Decomposed the time series to observe underlying trends and seasonality.
 
 ##  Feature Engineering & Model Tuning
 
 ### Feature Engineering
+
 Introduced lag variables and rolling mean features to capture temporal patterns.
+
 Implemented polynomial features for capturing non-linear relationships.
+
 Explored other rolling features like rolling standard deviation.
 
 ### Model Tuning
+
 Used a Random Forest Regressor for modeling.
+
 Evaluated the model's performance against a baseline to ensure predictive capability.
+
 Fine-tuned the model using Randomized Search for hyperparameter optimization.
 
 ##  Model Deployment & UI
 ### Model Deployment
 The trained model can be deployed as a RESTful API using Flask.
+
 Docker can be used for containerizing the app, ensuring consistent behavior across environments.
+
 Cloud platforms like AWS or Heroku can host the app for scalability and on-demand access.
 
 ### User Interface
 A simple web UI was proposed using Flask and HTML/CSS.
+
 Users can input data features through a form and receive sea level predictions.
 
 ###  Model Evaluation
@@ -90,8 +106,11 @@ Users can input data features through a form and receive sea level predictions.
 To get a local copy up and running, follow these steps:
 
 Clone the repository.
+
 Install the required packages.
+
 Run the Flask app.
+
 Navigate to http://127.0.0.1:5000/ on your browser.
 
 ## Contributing & Feedback

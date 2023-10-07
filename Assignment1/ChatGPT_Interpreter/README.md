@@ -23,7 +23,7 @@ Implementing a user-friendly interface that effectively communicates the model�
 
 ### Table of Contents
 
-- [Overview](#🌐 overview)
+- [Overview](#overview)
 - [Data Exploration & Analysis](#data-exploration--analysis)
 - [Feature Engineering & Model Tuning](#feature-engineering--model-tuning)
 - [Model Deployment & UI](#model-deployment--ui)
@@ -36,7 +36,7 @@ Implementing a user-friendly interface that effectively communicates the model�
 
 This project involves predicting sea levels using a dataset from Kaggle. The CRISP-DM methodology was used to guide the process, ensuring a structured and comprehensive approach to the data science tasks.
 
-## 🔍 Data Exploration & Analysis
+##  Data Exploration & Analysis
 
 ### Data Loading
 
@@ -59,7 +59,7 @@ Plotted time series trends of the sea level.
 Visualized the distribution and relationships of key variables.
 Decomposed the time series to observe underlying trends and seasonality.
 
-## 🛠 Feature Engineering & Model Tuning
+##  Feature Engineering & Model Tuning
 
 ### Feature Engineering
 Introduced lag variables and rolling mean features to capture temporal patterns.
@@ -71,7 +71,7 @@ Used a Random Forest Regressor for modeling.
 Evaluated the model's performance against a baseline to ensure predictive capability.
 Fine-tuned the model using Randomized Search for hyperparameter optimization.
 
-## 🚀 Model Deployment & UI
+##  Model Deployment & UI
 ### Model Deployment
 The trained model can be deployed as a RESTful API using Flask.
 Docker can be used for containerizing the app, ensuring consistent behavior across environments.
@@ -81,12 +81,12 @@ Cloud platforms like AWS or Heroku can host the app for scalability and on-deman
 A simple web UI was proposed using Flask and HTML/CSS.
 Users can input data features through a form and receive sea level predictions.
 
-### 📈 Model Evaluation
+###  Model Evaluation
 MAE: 6.85
 MSE: 75.58
 R²: -0.56
 
-## 📊 Getting Started
+## Getting Started
 To get a local copy up and running, follow these steps:
 
 Clone the repository.
@@ -94,12 +94,12 @@ Install the required packages.
 Run the Flask app.
 Navigate to http://127.0.0.1:5000/ on your browser.
 
-## ✉ Contributing & Feedback
+## Contributing & Feedback
 Contributions, issues, and feature requests are welcome!
 
 For major changes, please open an issue first to discuss what you would like to change. Feedback on the model, features, and potential improvements is highly appreciated.
 
-## 📜 License
+## License
 Distributed under the MIT License. See LICENSE for more information.
 
 ## User Training 📚
@@ -108,5 +108,5 @@ Training materials and sessions for end-users.
 ## 📈 Future Work
 Outline any planned future improvements or expansions of the current project.
 
-##🙏 Acknowledgements
+## 🙏 Acknowledgements
 Credits for code inspirations, dataset providers, and any other support.

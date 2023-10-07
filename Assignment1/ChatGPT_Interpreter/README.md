@@ -6,6 +6,9 @@ Welcome to the Sea Level Predictor Project! 🌊📈 Climate change has been a s
 
 This project leaps into the profound depths of machine learning and data analytics to unravel patterns and develop predictive models concerning sea levels. Utilizing a dataset enriched with chronological sea level measurements and potentially influencing variables, we embark on a journey through systematic data exploration, feature engineering, model development, and deployment, all while adhering to the comprehensive CRISP-DM methodology.
 
+Deep Dive: Explore a detailed journey through my project in my Medium article: 
+[Rising Tides, Sinking Cities: A Data-Driven Dive into Predicting Sea Levels](https://medium.com/@sidsanc4998/rising-tides-sinking-cities-a-data-driven-dive-into-predicting-sea-levels-b50803dfca59)
+
 ## 🧐 Problem Statement
 
 The consistent rise in global sea levels has been attributed to various factors such as global warming, glacier melting, and other environmental phenomena. The ability to predict sea levels is crucial in formulating and implementing preventive and adaptive measures, particularly in regions that are severely affected by rising waters.
@@ -118,14 +121,6 @@ Contributions, issues, and feature requests are welcome!
 
 For major changes, please open an issue first to discuss what you would like to change. Feedback on the model, features, and potential improvements is highly appreciated.
 
-## License
-Distributed under the MIT License. See LICENSE for more information.
-
-## User Training 📚
-Training materials and sessions for end-users.
-
-## 📈 Future Work
-Outline any planned future improvements or expansions of the current project.
 
 ## 🙏 Acknowledgements
 Credits for code inspirations, dataset providers, and any other support.

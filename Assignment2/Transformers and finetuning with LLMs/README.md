@@ -24,7 +24,7 @@ pip install jax jaxlib flax
 
 ## NanoGPT Unveiled: A Deep Dive into Implementation Across Frameworks
 
-[![NanoGPT Unveiled](https://miro.medium.com/max/1400/1*0LHoXsxzxYvtxXqE9IngpQ.png)](https://medium.com/@sidsanc4998/nanogpt-unveiled-a-comprehensive-study-and-implementation-across-pytorch-tensorflow-and-jax-flax-e1ab9aa6434c)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/0" alt="Recent Article 0"> 
 
 [![Medium Article](thumbnail-image-link.png)](https://medium.com/@sidsanc4998/nanogpt-unveiled-a-comprehensive-study-and-implementation-across-pytorch-tensorflow-and-jax-flax-e1ab9aa6434c)
 

@@ -3,6 +3,11 @@
 ## Overview
 NanoGPT is a minimal implementation of the GPT (Generative Pretrained Transformer) architecture. This repository provides implementations of NanoGPT in three popular deep-learning frameworks: PyTorch, TensorFlow, and JAX/Flax.
 
+## Medium Article
+### NanoGPT Unveiled: A Deep Dive into Implementation Across Frameworks
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/0" alt="Recent Article 0"> 
+
 ## Implementations
 ### 1. [NanoGPT with PyTorch](./NanoGPT_PyTorch.ipynb)
 This implementation uses the PyTorch deep learning framework, leveraging its dynamic computation graph and extensive library support.
@@ -22,10 +27,6 @@ pip install tensorflow
 pip install jax jaxlib flax
 ```
 
-## NanoGPT Unveiled: A Deep Dive into Implementation Across Frameworks
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/0" alt="Recent Article 0"> 
-
-[![Medium Article](thumbnail-image-link.png)](https://medium.com/@sidsanc4998/nanogpt-unveiled-a-comprehensive-study-and-implementation-across-pytorch-tensorflow-and-jax-flax-e1ab9aa6434c)
 
 

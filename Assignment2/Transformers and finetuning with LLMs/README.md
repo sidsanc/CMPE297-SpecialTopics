@@ -8,6 +8,8 @@ NanoGPT is a minimal implementation of the GPT (Generative Pretrained Transforme
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/0" alt="Recent Article 0"> 
 
+![[Google Slide](https://i.gifer.com/LSsT.gif)](https://docs.google.com/presentation/d/1amDb63uVrKoVARRcHQTcl70pc9Xob7mxOxTiSC9jVe0/edit?usp=sharing)
+
 ## Implementations
 ### 1. [NanoGPT with PyTorch](./NanoGPT_PyTorch.ipynb)
 This implementation uses the PyTorch deep learning framework, leveraging its dynamic computation graph and extensive library support.

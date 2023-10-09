@@ -10,7 +10,7 @@ Deep Dive: Explore a detailed journey through my project in my Medium article:
 
 <!-- [Rising Tides, Sinking Cities: A Data-Driven Dive into Predicting Sea Levels](https://medium.com/@sidsanc4998/rising-tides-sinking-cities-a-data-driven-dive-into-predicting-sea-levels-b50803dfca59)-->
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/1" alt="Recent Article 1"> 
 
 [Chat Script](https://chat.openai.com/share/8e258e77-5313-4058-a99b-37b52f6353c8)
 

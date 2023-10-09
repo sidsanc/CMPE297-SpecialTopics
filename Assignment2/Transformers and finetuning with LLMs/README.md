@@ -11,7 +11,7 @@ NanoGPT is a minimal implementation of the GPT (Generative Pretrained Transforme
 
 ![[](https://docs.google.com/presentation/d/1amDb63uVrKoVARRcHQTcl70pc9Xob7mxOxTiSC9jVe0/edit?usp=sharing)](https://github.com/sidsanc/CMPE297-SpecialTopics/assets/47080427/8e916c62-04d4-4633-93fb-d42072f660d7)
 
-<a target="_blank" href=https://docs.google.com/presentation/d/1amDb63uVrKoVARRcHQTcl70pc9Xob7mxOxTiSC9jVe0/edit?usp=sharing><img width="930" alt="image" src="https://github.com/sidsanc/CMPE297-SpecialTopics/assets/47080427/8e916c62-04d4-4633-93fb-d42072f660d7">
+<a target="_blank" href="https://docs.google.com/presentation/d/1amDb63uVrKoVARRcHQTcl70pc9Xob7mxOxTiSC9jVe0/edit?usp=sharing"><img width="930" alt="image" src="https://github.com/sidsanc/CMPE297-SpecialTopics/assets/47080427/8e916c62-04d4-4633-93fb-d42072f660d7">
 
 ## Implementations
 ### 1. [NanoGPT with PyTorch](./NanoGPT_PyTorch.ipynb)

@@ -25,6 +25,9 @@ In this notebook, NanoGPT is implemented using TensorFlow and the Keras API, pro
 ### 3. [NanoGPT with JAX/Flax](./NanoGPT_JAX.ipynb)
 The JAX/Flax implementation showcases the functional API and just-in-time compilation capabilities of the JAX library with the neural network API provided by Flax.
 
+###4. [Textbooks_Are_All_You_Need](./Textbooks_Are_All_You_Need.ipynb)
+The goal of this project is to distill ChatGPT's Python coding ability into a smaller model with only 1 billion parameters.
+
 ## Setup and Installation
 To run the notebooks, ensure you have the respective deep learning libraries installed:
 

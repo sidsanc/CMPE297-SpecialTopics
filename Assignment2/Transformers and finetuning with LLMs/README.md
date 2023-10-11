@@ -6,7 +6,7 @@ NanoGPT is a minimal implementation of the GPT (Generative Pretrained Transforme
 ## Medium Article
 ### NanoGPT Unveiled: A Deep Dive into Implementation Across Frameworks
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/1" alt="Recent Article 1"> 
 
 
 ### Google Slide

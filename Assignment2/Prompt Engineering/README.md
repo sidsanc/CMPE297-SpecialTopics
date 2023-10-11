@@ -9,8 +9,11 @@ In the [PromptCritique notebook](https://colab.research.google.com/github/sidsan
 Key Features:
 
 `critique_prompt Function`: Interacts with GPT-4 to critique and suggest improvements for a given prompt.
+
 `Interactive UI with Gradio`: Users input their prompts and receive real-time feedback.
+
 `History Tracking`: Maintains a record of user inputs, GPT suggestions, and user responses for iterative refinement.
+
 `Enhanced User Experience`: Integrated features like the "Refine" button to further refine prompts based on GPT suggestions.
 
 _This notebook serves as a practical application of prompt engineering, showcasing the power of conversational AI in refining user prompts._

@@ -1,8 +1,2 @@
-Create a project with real time voice recognition based language translation bot. 
-it translates atleast 15 languages. 
-A voice recognition based tool for translating languages in real time. This tool could be used to translate languages with voice data. For an example, it can listen and, translate that voice data into the target language then, it speaks out as a voice output, similar to a human translator, who listens and then translate in a targeted language.
-it is using the google translate platform as backbone to perform the translation process.
-Follow best coding practices and structure the code properly. Generate backend and frontend code files. 
-BackEnd: Python, Django Framework, Google Translate API V2
-FrontEnd: HTML/CSS, JavaScript (VueJS), Bootstrap
+
 

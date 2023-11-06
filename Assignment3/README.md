@@ -4,9 +4,9 @@ This repository contains a series of Jupyter notebooks 📓 that demonstrate a v
 
 ## 🧠 Techniques Overview 
 
-[![Open in Colab]](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/Prompting_Techniques.ipynb) 
-[![Prompt Templates]](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/Prompt_Templates.ipynb)
-[![PaLM2 AI]](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/PaLM2.ipynb)
+[![Prompting Techniques](https://colab.research.google.com/assets/prompting-techniques-badge.svg)](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/Prompting_Techniques.ipynb) 
+[![Prompt Templates](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/Prompt_Templates.ipynb)
+[![PaLM2 AI](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/PaLM2.ipynb)
 
 
 

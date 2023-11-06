@@ -34,7 +34,7 @@ This repository contains a series of Jupyter notebooks 📓 that demonstrate a v
 
 ## <ins>AI Personas</ins> 
 
-[![Open In Colab](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/SystemPrompt.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/SystemPrompt.ipynb)
 
 System prompts are used to guide the AI's behavior in specific contexts, such as behaving like an Ayurvedic expert or a motivational speaker, AI mimics the knowledge and communication style of notable figures such as Warren Buffett and Tony Robbins, offering tailored advice in finance and personal development, ensuring that the AI's responses are aligned with the desired persona and expertise. 🖥️🌟
 

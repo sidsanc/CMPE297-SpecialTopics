@@ -2,7 +2,10 @@
 
 This repository contains a series of Jupyter notebooks 📓 that demonstrate a variety of advanced prompt engineering techniques utilized with OpenAI's GPT-4 and GPT-3.5 language models. Each notebook is crafted to showcase a specific prompting strategy, aiming to enhance the AI's performance 🎯 in generating accurate, relevant, and context-aware content across different domains.
 
-## 🧠 Techniques Overview
+## 🧠 Techniques Overview 
+
+[![Prompting Techniques](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/Prompting_Techniques.ipynb) [![Prompt Templates](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/Prompt_Templates.ipynb) [![PaLM2 AI](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/PaLM2.ipynb)
+
 
 - ICL (In-Context Learning): ICL prompts are designed to teach the model a pattern within the prompt itself, leading to improved responses without additional training. 📈
 
@@ -20,19 +23,19 @@ This repository contains a series of Jupyter notebooks 📓 that demonstrate a v
 
 - REACT (Reason, Example, Argument, Counterargument, Tie-back): A framework that guides the AI in constructing well-rounded responses or essays. 📚
 
+- Prompt Patterns and Techniques: Explore a diverse set of prompting patterns such as Zero-Shot, Template, Semantic Filter, Cognitive Verifier, and many others to elicit specific types of responses.
+
+- PALM 2 API: Utilize Google's PALM 2 API for generating text, showcasing its capabilities in creating contextually rich and nuanced content.
+
 ## 📚 Assignments
 
 ### <ins> Astrology to Nanotechnology </ins>
 
 Explore how each technique can be applied to fields ranging from astrology to nanotechnology, with the goal of extracting detailed insights, predictions, and explanations specific to each domain. 🔭🌿🤖🧬
 
-### <ins>AI Personas</ins>
+### <ins>AI Personas</ins> [![Open In Colab](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/SystemPrompt.ipynb)
 
-Dive into persona-based prompts, where the AI mimics the knowledge and communication style of notable figures such as Warren Buffett and Tony Robbins, offering tailored advice in finance and personal development. 💼🧘
-
-### <ins>System Prompts</ins>
-
-System prompts are used to guide the AI's behavior in specific contexts, such as behaving like an Ayurvedic expert or a motivational speaker, ensuring that the AI's responses are aligned with the desired persona and expertise. 🖥️🌟
+System prompts are used to guide the AI's behavior in specific contexts, such as behaving like an Ayurvedic expert or a motivational speaker, AI mimics the knowledge and communication style of notable figures such as Warren Buffett and Tony Robbins, offering tailored advice in finance and personal development, ensuring that the AI's responses are aligned with the desired persona and expertise. 🖥️🌟
 
 ## 🚀 Getting Started
 

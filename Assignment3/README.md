@@ -4,7 +4,10 @@ This repository contains a series of Jupyter notebooks 📓 that demonstrate a v
 
 ## 🧠 Techniques Overview 
 
-[![Prompting Techniques](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/Prompting_Techniques.ipynb) [![Prompt Templates](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/Prompt_Templates.ipynb) [![PaLM2 AI](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/PaLM2.ipynb)
+[![Prompting Techniques]](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/Prompting_Techniques.ipynb) 
+[![Prompt Templates]](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/Prompt_Templates.ipynb)
+[![PaLM2 AI]](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/PaLM2.ipynb)
+
 
 
 - ICL (In-Context Learning): ICL prompts are designed to teach the model a pattern within the prompt itself, leading to improved responses without additional training. 📈

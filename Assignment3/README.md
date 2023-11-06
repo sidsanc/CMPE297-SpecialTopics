@@ -22,7 +22,7 @@ This repository contains a series of Jupyter notebooks 📓 that demonstrate a v
 
 ## 📚 Assignments
 
-<u>Astrology to Nanotechnology</u>
+<u> Astrology to Nanotechnology </u>
 
 Explore how each technique can be applied to fields ranging from astrology to nanotechnology, with the goal of extracting detailed insights, predictions, and explanations specific to each domain. 🔭🌿🤖🧬
 

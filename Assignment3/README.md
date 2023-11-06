@@ -22,15 +22,15 @@ This repository contains a series of Jupyter notebooks 📓 that demonstrate a v
 
 ## 📚 Assignments
 
-<u> Astrology to Nanotechnology </u>
+### <ins> Astrology to Nanotechnology </ins>
 
 Explore how each technique can be applied to fields ranging from astrology to nanotechnology, with the goal of extracting detailed insights, predictions, and explanations specific to each domain. 🔭🌿🤖🧬
 
-<u>AI Personas</u>
+### <ins>AI Personas</ins>
 
 Dive into persona-based prompts, where the AI mimics the knowledge and communication style of notable figures such as Warren Buffett and Tony Robbins, offering tailored advice in finance and personal development. 💼🧘
 
-<u>System Prompts</u>
+### <ins>System Prompts</ins>
 
 System prompts are used to guide the AI's behavior in specific contexts, such as behaving like an Ayurvedic expert or a motivational speaker, ensuring that the AI's responses are aligned with the desired persona and expertise. 🖥️🌟
 

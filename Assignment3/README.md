@@ -4,11 +4,7 @@ This repository contains a series of Jupyter notebooks 📓 that demonstrate a v
 
 ## 🧠 Techniques Overview 
 
-[![Prompting Techniques](https://colab.research.google.com/assets/prompting-techniques-badge.svg)](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/Prompting_Techniques.ipynb) 
-[![Prompt Templates](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/Prompt_Templates.ipynb)
-[![PaLM2 AI](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/PaLM2.ipynb)
-
-
+[![Prompting Techniques](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/Prompting_Techniques.ipynb) 
 
 - ICL (In-Context Learning): ICL prompts are designed to teach the model a pattern within the prompt itself, leading to improved responses without additional training. 📈
 
@@ -26,9 +22,13 @@ This repository contains a series of Jupyter notebooks 📓 that demonstrate a v
 
 - REACT (Reason, Example, Argument, Counterargument, Tie-back): A framework that guides the AI in constructing well-rounded responses or essays. 📚
 
-- Prompt Patterns and Techniques: Explore a diverse set of prompting patterns such as Zero-Shot, Template, Semantic Filter, Cognitive Verifier, and many others to elicit specific types of responses.
+- Prompt Patterns and Techniques [![Prompt Templates](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/Prompt_Templates.ipynb):
 
-- PALM 2 API: Utilize Google's PALM 2 API for generating text, showcasing its capabilities in creating contextually rich and nuanced content.
+ Explore a diverse set of prompting patterns such as Zero-Shot, Template, Semantic Filter, Cognitive Verifier, and many others to elicit specific types of responses. 
+ 
+- PALM 2 API [![PaLM2 AI](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sidsanc/CMPE297-SpecialTopics/blob/main/Assignment3/PaLM2.ipynb):
+
+Utilize Google's PALM 2 API for generating text, showcasing its capabilities in creating contextually rich and nuanced content.
 
 ## 📚 Assignments
 

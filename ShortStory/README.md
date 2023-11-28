@@ -1,6 +1,6 @@
 # 🌟 GENOME: Generative Neuro-Symbolic Visual Reasoning 🌟
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/0" alt="Medium Article">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sidsanc4998/0"><img src="https://medium.com/@sidsanc4998/genome-the-dawn-of-generative-neuro-symbolic-reasoning-in-ai-6abb07be8df2" alt="Medium Article">
 
 Welcome to the GENOME project, a pioneering venture in the realm of AI that amalgamates the power of generative AI with neuro-symbolic reasoning. This groundbreaking model is shaping the future of visual understanding and AI reasoning, heralding a new era of cognitive AI capabilities.
 

@@ -33,6 +33,6 @@ GENOME represents not just a step forward in AI but a giant leap towards a futur
 This project is based on insights from the research paper [GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules](https://arxiv.org/pdf/2311.04901.pdf) . Key references include works by Andreas et al. (2016b), Chen et al. (2021c), and Ding et al. (2021).
 
 ## Important Links 🔗
-[GENOME Research Paper](https://arxiv.org/pdf/2311.04901.pdf)
-GQA Benchmark
-RefCOCO Benchmark
+
+- [GENOME Research Paper](https://arxiv.org/pdf/2311.04901.pdf)
+

@@ -8,7 +8,7 @@ Welcome to the GENOME project, a pioneering venture in the realm of AI that amal
 
 <!--  ![[](https://docs.google.com/presentation/d/1amDb63uVrKoVARRcHQTcl70pc9Xob7mxOxTiSC9jVe0/edit?usp=sharing)](https://github.com/sidsanc/CMPE297-SpecialTopics/assets/47080427/8e916c62-04d4-4633-93fb-d42072f660d7)-->
 
-<a target="_blank" href="https://docs.google.com/presentation/d/1_DkrhY6SB3joQ5a2EWk40R6brzFrrgVTj59lZ3_MU5E/edit?usp=sharing"><img width="500" alt="image" src="https://docs.google.com/presentation/d/1_DkrhY6SB3joQ5a2EWk40R6brzFrrgVTj59lZ3_MU5E/edit?usp=sharing">
+<a target="_blank" href="https://docs.google.com/presentation/d/1_DkrhY6SB3joQ5a2EWk40R6brzFrrgVTj59lZ3_MU5E/edit?usp=sharing"><img width="500" alt="image" src="https://github.com/sidsanc/CMPE297-SpecialTopics/assets/47080427/e6b14474-bdd9-4f17-9dbd-6265a4c3baaa">
 
 ### Video 
 [Screencast](https://drive.google.com/file/d/1UbMCSO0tB2YAH_l1cwUquFnATaNSWCS5/view?usp=drive_link)

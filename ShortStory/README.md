@@ -4,6 +4,13 @@
 
 Welcome to the GENOME project, a pioneering venture in the realm of AI that amalgamates the power of generative AI with neuro-symbolic reasoning. This groundbreaking model is shaping the future of visual understanding and AI reasoning, heralding a new era of cognitive AI capabilities.
 
+### Google Slide
+
+<!--  ![[](https://docs.google.com/presentation/d/1amDb63uVrKoVARRcHQTcl70pc9Xob7mxOxTiSC9jVe0/edit?usp=sharing)](https://github.com/sidsanc/CMPE297-SpecialTopics/assets/47080427/8e916c62-04d4-4633-93fb-d42072f660d7)-->
+
+<a target="_blank" href="https://docs.google.com/presentation/d/1_DkrhY6SB3joQ5a2EWk40R6brzFrrgVTj59lZ3_MU5E/edit?usp=sharing"><img width="500" alt="image" src="https://docs.google.com/presentation/d/1_DkrhY6SB3joQ5a2EWk40R6brzFrrgVTj59lZ3_MU5E/edit?usp=sharing">
+
+
 ## Introduction 👁️‍🗨️
 
 GENOME stands at the vanguard of AI innovation, representing a significant leap from traditional data processing to an era where AI mimics and augments human cognitive processes. This model embodies the convergence of generative AI's creative capabilities with the logical and rule-based prowess of neuro-symbolic reasoning.

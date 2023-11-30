@@ -10,6 +10,9 @@ Welcome to the GENOME project, a pioneering venture in the realm of AI that amal
 
 <a target="_blank" href="https://docs.google.com/presentation/d/1_DkrhY6SB3joQ5a2EWk40R6brzFrrgVTj59lZ3_MU5E/edit?usp=sharing"><img width="500" alt="image" src="https://docs.google.com/presentation/d/1_DkrhY6SB3joQ5a2EWk40R6brzFrrgVTj59lZ3_MU5E/edit?usp=sharing">
 
+### Video 
+[Screencast](https://drive.google.com/file/d/1UbMCSO0tB2YAH_l1cwUquFnATaNSWCS5/view?usp=drive_link)
+
 
 ## Introduction 👁️‍🗨️
 
